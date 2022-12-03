@@ -5,7 +5,7 @@
         {
           "name": "Coyote",
           "title": "Jedi Savior",
-          "image": "<a href="https://ibb.co/3Yr4g36"><img src="https://i.ibb.co/dJWj8TC/Koyote-Unit-Card-V1.png" alt="Koyote-Unit-Card-V1" border="0"></a>",
+          "image": "<https://ibb.co/3Yr4g36",
           "size": "small",
           "type": "Trooper",
           "points": 105,
