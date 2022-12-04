@@ -3,7 +3,7 @@
     "Republic": {
       "Commander": [
         {
-          "name": "Coyote",
+          "name": "Koyote",
           "title": "Jedi Savior",
           "image": "http://cloud-3.steamusercontent.com/ugc/1975421088575199454/52A1306905BA5D98B888D9780D18221945D19446/",
           "size": "small",
@@ -22,13 +22,13 @@
           ],
           "commands": [
             {
-              "name": "Legacy Of A Legend",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747528124/18B118F66C532CAF69CC82877EC177C68A9A5278/",
+              "name": "Mando'a Training",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1975421088579644317/74C9B282E056D506C322BB3FA2EA629F902F1394/",
               "pip": 1
             },
             {
-              "name": "Shock Traps",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747528435/A7754C5F989DC2C48860EA1F8DDFC671FCD90338/",
+              "name": "Like The Old Days",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1975421088579643761/DA240B901D519B23E306802B2BC0799C9D1B047B/",
               "pip": 2
             },
             {
