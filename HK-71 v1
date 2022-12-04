@@ -1,0 +1,44 @@
+{
+  "units": {
+    "Seperatist": {
+      "Operative": [
+        {
+          "name": "HK-71",
+          "title": "Rusty Relic",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1975421088578883931/A8FC4D0CA0BEBC9111A5A360CB07D8821A799A38/",
+          "size": "small",
+          "type": "Droid Trooper",
+          "points": 110,
+          "speed": 1,
+          "upgrades": {
+            "Training": 1,
+            "Programming": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1744602094725628797/C5EB41E9157C249A52275D43F62E41D48284397B/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Conclusion: I will be back, Meatbag",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238602481081469/A4CAF29AEA85E6FCC074F90955CA44D7D02ADD26/",
+              "pip": 1
+            },
+            {
+              "name": "Commentary: I say we blast the Meatbags",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238602481081628/6E6950CD148374B4C70CA82B45B89288A5F2A1EA/",
+              "pip": 2
+            },
+            {
+              "name": "Mockery: Time to die, Meatbag",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1759238602481081806/C6C07F529F87750DD186CEA99BCC80D9B6826AC8/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
