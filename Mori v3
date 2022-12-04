@@ -1,0 +1,45 @@
+{
+  "units": {
+    "Separatist": {
+      "Commander": [
+        {
+          "name": "Mori S'umrel",
+          "title": "Scrapper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1975421088578468074/04DC0D9C261F2BDDFEA5416EE578B4649F439A36/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Grenade": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642365775807/337D2A5009DD4A91F0A469B418D4C77867FDF52D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081017098/0B9FEFCCC6EE669A224F7D7BE2D90838D633A88A/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Legacy Of A Legend",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747528124/18B118F66C532CAF69CC82877EC177C68A9A5278/",
+              "pip": 1
+            },
+            {
+              "name": "Shock Traps",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747528435/A7754C5F989DC2C48860EA1F8DDFC671FCD90338/",
+              "pip": 2
+            },
+            {
+              "name": "Whatever Keeps the Heat On",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1975421088575201837/7481966C912DC23EB3F341F3DCA1368E29F8AA8F/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
