@@ -1,0 +1,45 @@
+{
+  "units": {
+    "Rebel": {
+      "Commander": [
+        {
+          "name": "Pos'nar'keregh",
+          "title": "Snark",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1975421088578883931/A8FC4D0CA0BEBC9111A5A360CB07D8821A799A38/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192111404/0E625C7A4614D3BE5DF4DF9D78BA558C2B78803C/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077811472/113E3073415E11BD616962D84B2963CDFF0E77DF/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Orbital Bombardment",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486941939/6E7612CC742C470834764202B5306C93DC00B7FA/",
+              "pip": 1
+            },
+            {
+              "name": "Corruption is My Weapon",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486942110/B8F4F5F228A81CE793055D7DE37AEA1473F98A67/",
+              "pip": 2
+            },
+            {
+              "name": "Everyone Has a Price",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486942457/CB0F417D6193306DD1F9EC2FA507C94ABC859EFA/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
