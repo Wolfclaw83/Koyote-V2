@@ -1,0 +1,45 @@
+{
+  "units": {
+    "Separatist": {
+      "Commander": [
+        {
+          "name": "Mori S'umrel",
+          "title": "Scrapper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1975421088578468074/04DC0D9C261F2BDDFEA5416EE578B4649F439A36/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642365775807/337D2A5009DD4A91F0A469B418D4C77867FDF52D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081017098/0B9FEFCCC6EE669A224F7D7BE2D90838D633A88A/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Scrap Salvo",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1975421088579295673/39B1C500F5ECD8229918520E8244A6A7866B372D/",
+              "pip": 1
+            },
+            {
+              "name": "Meat and Metal",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1975421088579295673/39B1C500F5ECD8229918520E8244A6A7866B372D/",
+              "pip": 2
+            },
+            {
+              "name": "Where Are Those Droidekas",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1975421088579296017/753DE6BF0DAA8CA1F8BC711F56ED8FD41FB2DDC3/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
