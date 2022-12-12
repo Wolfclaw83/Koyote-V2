@@ -1,0 +1,190 @@
+{
+  "units": {
+    "Separatist": {
+    "Corps": [
+        {
+          "name": "Rust Eater B1 Battle Droids",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1976547968170657849/05697087338BF69C670550CF798F6AFE22C09C7A/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 45,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Comms": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869166347/AA861F86A0B74CF335533E425A6CBACB99395A09/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166529/263C2AB95B1743539EC2CBDE40B0A14B1F5E5693/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167061/48F42C02EDD970E6DE8E59B8601EF3E7F11C1742/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167318/DBC7863706A08B96020D3BFBE7A0C2C5689B7B08/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167194/9ADFFD9AD608CBE3E9F6F61AB416E699A4156109/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+              },
+            {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167061/48F42C02EDD970E6DE8E59B8601EF3E7F11C1742/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167318/DBC7863706A08B96020D3BFBE7A0C2C5689B7B08/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167194/9ADFFD9AD608CBE3E9F6F61AB416E699A4156109/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167061/48F42C02EDD970E6DE8E59B8601EF3E7F11C1742/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Heavy Weapon": [
+      {
+        "name": "E-5C B1 Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140436/6A3EBB89A4172017C75366D8A7E1613D22953C17/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780871782781/4DCE4780DE1CCDFB2996C28200A26C3B0696DD5A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780871782881/ADC1DBC3987C84AF486F9CD0E19A0455F4C33291/"
+        },
+        "points": 18,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "E-5s B1 Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140479/A9EE65EB6F30F9FCAA43DBA0C025E5B76508D6BC/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/766102422959434489/60F05B7FC8544DFC640CB33DA55F19EB5F2CB55A/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/766102422959428835/10D3F8862BDECE8C0D7A874CC000F25CD6232168/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "E-60R B1 Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140583/AD8559ABB63B60727725BB86C817B45C9FC40AA8/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780871782500/34D317CFE0BE32E4FFFB84567822CDF7AC4D4C98/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780871782620/9A9EA2B54691F42EA6D34762D33D523A836201B2/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "Radiation Cannon B1 Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144682/FA1C881FCC17F3A4857FFE03FD564CC3BFCE6B1E/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785008444/482C29486FD00312B2C7848D26A82793BCDF7D7F/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764784997566/39300970854603B1F1539C46D70CC21280E278FF/"
+        },
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "T-Series Tactical Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568146138/2F28A64E405A9426CB3248FB8D9D4F9B7FFA2E4B/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192681738/6062182D66F6F043E4DCF98FCD592CBD7ECDFF18/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081515538/DFE6A5BB3F95EDBAEFDDA95E5B873D8B636CB499/"
+        },
+        "points": 18,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "B1 Battle Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568138406/B83A83613C2F77D3BD237309689D70C47BD34350/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234780869167061/48F42C02EDD970E6DE8E59B8601EF3E7F11C1742/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234780869166919/FE5AD3A71430C729735E3FF7023D9E546E12FEF1/"
+        },
+        "points": 6,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "OOM-Series Battle Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568143867/A8A2CA8F507CEE4C16CAA27C0865FB334824A4AB/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785018348/F0B0C50757F4043A6C9B8746A73F8EC4342CA7DA/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785012711/4DF65424F7D5400F0DC8A4DE7A028B373143CE6E/"
+        },
+        "leader": true,
+        "points": 12,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "B1 Security Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568138465/E66B9C058BA3D7B2B767CFA6E0A4D5581E744285/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/766102173467517125/1BEF7A7795DF3F6DB91B84C1C82D8FBB24BF574B/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/766102173467517405/DC3A7F38CF3839B7C5F2FCCE85745041094ADA81/"
+        },
+        "points": 9,
+        "restrictions": {
+          "include": {
+            "unit": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      },
+      {
+        "name": "EV-Series Medical Droid",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568141000/351590750AFE04E144C510815B8C7D55B9A23D1F/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1683750364035000354/6248E4CAF3E978154106E7095E6984DCE6677CCA/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035001447/E6B6EC2DDAE8CEA46A1384161E789D76F8F296BA/"
+        },
+        "points": 14,
+        "restrictions": {
+          "include": {
+            "type": ["Rust Eater B1 Battle Droids"]
+          }
+        }
+      }
+    ]
+  }
+}
+           
