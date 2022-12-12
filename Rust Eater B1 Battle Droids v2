@@ -6,7 +6,7 @@
           "name": "Rust Eater B1 Battle Droids",
           "image": "http://cloud-3.steamusercontent.com/ugc/1976547968170657849/05697087338BF69C670550CF798F6AFE22C09C7A/",
           "size": "small",
-          "type": "Trooper",
+          "type": "Droid Trooper",
           "points": 45,
           "speed": 2,
           "upgrades": {
@@ -64,8 +64,8 @@
         },
         "points": 18,
         "restrictions": {
-          "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+         "include": {
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -78,8 +78,8 @@
         },
         "points": 20,
         "restrictions": {
-          "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+           "include": {
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -92,8 +92,8 @@
         },
         "points": 20,
         "restrictions": {
-          "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+           "include": {
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -106,8 +106,8 @@
         },
         "points": 22,
         "restrictions": {
-          "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+           "include": {
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -120,8 +120,8 @@
         },
         "points": 18,
         "restrictions": {
-          "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+           "include": {
+            "type": ["Droid Trooper"]
           }
         }
       }
@@ -137,7 +137,7 @@
         "points": 6,
         "restrictions": {
           "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -152,7 +152,7 @@
         "points": 12,
         "restrictions": {
           "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -166,7 +166,7 @@
         "points": 9,
         "restrictions": {
           "include": {
-            "unit": ["Rust Eater B1 Battle Droids"]
+            "type": ["Droid Trooper"]
           }
         }
       },
@@ -180,7 +180,7 @@
         "points": 14,
         "restrictions": {
           "include": {
-            "type": ["Rust Eater B1 Battle Droids"]
+            "type": ["Droid Trooper"]
           }
         }
       }
