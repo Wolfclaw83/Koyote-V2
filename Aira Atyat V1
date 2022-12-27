@@ -1,0 +1,45 @@
+{
+  "units": {
+    "Empire": {
+      "Commander": [
+        {
+          "name": "Aira Atyat",
+          "title": "Cold-Hearted Commandant",
+          "image": "http://cloud-3.steamusercontent.com/ugc/5068270035119685202/F2CFE31A7A50C94EA3CD18BF541BED81B75BAEBB/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 115,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077947993859/EDA4A023ECB1AE766F49097A52BF3F5BF083AFD1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/5068270035119756516/EBC9FC46F98891F4420B22C0E051C8B92D65EB31/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Aira 1 Pip Placeholder",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1760364156116225781/7E28B342C430FDEF0F55464D1296A15A23386746/",
+              "pip": 1
+            },
+            {
+              "name": "Aira 2 Pip Placeholder",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1760364156116225738/BC86D926356A70D37F3C8025090CFE8A359C6D14/",
+              "pip": 2
+            },
+            {
+              "name": "Aira 3 Pip Placeholder",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1760364156116225828/2A7E49D5C7362A598408AB0F4029C82E75051350/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
