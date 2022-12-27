@@ -1,4 +1,7 @@
-"Support": [
+{
+  "units": {
+    "Separatist": {
+        "Support": [
         {
           "name": "Droideka MKII",
           "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486960464/CBD295DABD5DC7490860C79BBA625E0B171B9858/",
@@ -25,3 +28,7 @@
             "Shield Token"
           ]
         }
+      ]
+    }
+  }
+}
