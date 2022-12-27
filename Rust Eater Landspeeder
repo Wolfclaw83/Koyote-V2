@@ -1,0 +1,46 @@
+{
+  "units": {
+    "Seperatist": {
+      "Heavy": [
+        {
+          "name": "X-34 Landspeeder",
+      "image": "http://cloud-3.steamusercontent.com/ugc/5068270035119484772/8CDF45DCAEBADBD6F838B8103C5FAC09088F83B4/",
+      "size": "huge",
+      "type": "Repulsor Vehicle",
+      "points": 60,
+      "speed": 2,
+      "upgrades": {
+        "Pilot": 1,
+        "Crew": 2,
+        "Hardpoint": 1,
+        "Comms": 1
+      },
+      "minis": [
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/949599512594267188/9FA2B8A42C94B6E3683F1B753CEBA14FC3258592/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/949599512594267308/582E5F56A65FE6CD486BCBABB510CAE4B4DF6C8C/"
+        }
+      ]
+    },
+    {
+      "name": "A-A5 Speeder Truck",
+      "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788629495/7CC8A26CAE70713A18D1A9C2A9DB7B59BC0839F9/",
+      "size": "long",
+      "type": "Repulsor Vehicle",
+      "points": 75,
+      "speed": 1,
+      "height": 4,
+      "upgrades": {
+        "Pilot": 1,
+        "Crew": 2,
+        "Hardpoint": 1,
+        "Comms": 1
+      },
+      "minis": [
+        {
+          "bundle": "http://cloud-3.steamusercontent.com/ugc/1802024425338475441/730DE7AD6E1A55EA9F9264DADC1DDC0AC2CCA565/"
+        }
+      ]
+    }
+  ]
+}
