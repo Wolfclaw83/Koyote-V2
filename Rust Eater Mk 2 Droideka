@@ -1,0 +1,27 @@
+"Support": [
+        {
+          "name": "Droideka MKII",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1922492635486960464/CBD295DABD5DC7490860C79BBA625E0B171B9858/",
+          "size": "medium",
+          "type": "Ground Vehicle",
+          "points": 110,
+          "speed": 1,
+          "upgrades": {
+            "Comms": 1,
+            "Hardpoint": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642365798378/BE8A6530AC8273FFE4549147A2F83C7A77BA5597/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081062137/8A23A382F8D732D6870EA044D0823CF02D1ADF8A/"
+            }
+          ],
+          "additionalObjects": [
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token",
+            "Shield Token"
+          ]
+        }
